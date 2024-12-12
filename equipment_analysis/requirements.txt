@@ -1,0 +1,9 @@
+Office365-REST-Python-Client
+pandas==1.5.3
+requests==2.31.0
+openpyxl  # For manipulating Excel files
+msal
+pywin32
+
+# pip install -r requirements.txt
+
